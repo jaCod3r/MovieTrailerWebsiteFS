@@ -1,2 +1,1 @@
-## Udacity Full Stack Developer 
-## Project 1: Movie Trailer Website
+### Udacity Full Stack Developer Project 1: Movie Trailer Website
