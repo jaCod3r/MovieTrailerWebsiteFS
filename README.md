@@ -4,17 +4,18 @@
 ### Two ways to run the code
 
 1. First way
-` git clone git@github.com:jaCod3r/MovieTrailerWebsiteFS.git `
+
+   `git clone git@github.com:jaCod3r/MovieTrailerWebsiteFS.git `
  
- `cd MovieTrailerWebsiteFS`
+   `cd MovieTrailerWebsiteFS`
  
- `python entertainment_center.py`
+   `python entertainment_center.py`
 
 
 2. Second way
 
-Find **Download Zip** near top right corner
+   Find **Download Zip** near top right corner
 
-` cd MovieTrailerWebsiteFS `
+   `cd MovieTrailerWebsiteFS `
 
-` python entertainment_center.py `
+   `python entertainment_center.py `
