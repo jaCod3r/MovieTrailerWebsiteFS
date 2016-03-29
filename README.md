@@ -3,7 +3,7 @@
 
 ### Two ways to run the code
 
-#### First way
+1. First way
 ` git clone git@github.com:jaCod3r/MovieTrailerWebsiteFS.git `
  
  `cd MovieTrailerWebsiteFS`
@@ -11,7 +11,8 @@
  `python entertainment_center.py`
 
 
-#### Second way
+2. Second way
+
 Find **Download Zip** near top right corner
 
 ` cd MovieTrailerWebsiteFS `
