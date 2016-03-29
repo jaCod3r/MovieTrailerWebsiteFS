@@ -4,8 +4,8 @@
 ### Two ways to run the code
 
 #### First way
-` git clone git@github.com:jaCod3r/MovieTrailerWebsiteFS.git 
- cd MovieTrailerWebsiteFS 
+` git clone git@github.com:jaCod3r/MovieTrailerWebsiteFS.git  <br />
+ cd MovieTrailerWebsiteFS <br />
  python entertainment_center.py `
 
 
