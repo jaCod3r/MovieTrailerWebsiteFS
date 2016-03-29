@@ -4,11 +4,11 @@
 ### Two ways to run the code
 
 #### First way
-` git clone git@github.com:jaCod3r/MovieTrailerWebsiteFS.git 
+` git clone git@github.com:jaCod3r/MovieTrailerWebsiteFS.git `
  
- cd MovieTrailerWebsiteFS
+ `cd MovieTrailerWebsiteFS`
  
- python entertainment_center.py `
+ `python entertainment_center.py`
 
 
 #### Second way
