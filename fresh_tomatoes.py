@@ -111,7 +111,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Movie Trailers From Top 5 Movies Ever! </a>
+            <a class="navbar-brand" href="#">Movie Trailers! </a>
           </div>
         </div>
       </div>
